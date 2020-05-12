@@ -1,30 +1,28 @@
-# Conor's First Website Project
+# Conor's Dad Jokes Slider
 
-This is my first website. It is a mock of the cake website from Adobe XD. I use css flexbox for the layout of rows and columns of divs and images. The images and fonts and colors are the same from the cake.xd mock. This website is also responsive with media queries. It is responsive for mobile, tablet, and laptop.
+This project has a slider which the user can click through and see different slides of dad jokes. The slides are implemented with html, css, and javascript and the dad jokes are retrieved through an API.  
 
 ## Deployment
 
-This website is deployed on github pages at ccorkery97.github.io
+Just open the html on the web and click the arrow buttons.
 
 ## Prerequisites
 
-1. Have a text editor installed. Either Sublime or VSCode
-2. Have a github account to view it on github pages
-3. type in http://ccorkery97.github.io into your browser
-4. inspect the website to change it to mobile, tablet, or laptop view
+1. Have a text editor installed to view the code. Either Sublime or VSCode.
+2. Open the html file in any browser. 
+3. Click on the buttons to navigate through the slides.
 
 ## Optional
 
-You can fork and clone this repository to view my html and css code and if you change it feel free to send me a pull request. 
+You can fork and clone this repository to view my html and javascript code and if you change it feel free to send me a pull request. 
 
 ## Built With
 
 * HTML
-* CSS
+* Javascript
 * git
-* github pages
-* Sublime
 * VSCode
+* This program uses fetch to grab api data into json format to be manipulated and put on the page. 
 
 ## Authors
 
